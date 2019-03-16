@@ -1,4 +1,4 @@
-#Mon Mar 11 09:51:19 EDT 2019
-base.0=/Users/sparkyevangelista/AndroidStudioProjects/Twitter/app/build/intermediates/transforms/dexMerger/debug/1
+#Sat Mar 16 14:47:24 EDT 2019
+base.0=/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/transforms/dexMerger/debug/1
 path.0=classes.dex
 renamed.0=classes.dex

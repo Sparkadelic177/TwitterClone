@@ -728,6 +728,7 @@ id chronometer
 id clip_horizontal
 id clip_vertical
 id collapseActionView
+id compose
 id content
 id contentPanel
 id custom
@@ -740,6 +741,7 @@ id disableHome
 id edit_query
 id end
 id end_padder
+id etCompose
 id expand_activities_button
 id expanded_menu
 id fill
@@ -834,6 +836,7 @@ id top
 id topPanel
 id tvBody
 id tvScreenName
+id tweetBtn
 id uniform
 id up
 id useLogo
@@ -873,6 +876,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_compose
 layout activity_login
 layout activity_time_line
 layout layout_tweet
@@ -896,6 +900,8 @@ layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 menu login
+menu menu_main
+string SubmitBTN
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -936,6 +942,7 @@ string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
+string hint
 string intent_host
 string intent_scheme
 string login_label
