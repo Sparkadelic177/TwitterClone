@@ -54,6 +54,7 @@ public class TimeLineActivity extends AppCompatActivity {
         LinearLayoutManager linearLayoutManager = new LinearLayoutManager(this);
         rvTweets.setLayoutManager(linearLayoutManager);
 
+        //infinite scrolling
         scrollListener = new EndlessRecyclerViewScrollListener(linearLayoutManager) {
             @Override
             public void onLoadMore(int page, int totalItemsCount, RecyclerView view) {
@@ -88,14 +89,14 @@ public class TimeLineActivity extends AppCompatActivity {
             }
         });
 
-    }
+    }//end of onCreate method
 
+    //inflating the menu bar with the created xml
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.menu_main, menu);
         return true;
     }
-
 
     //making a method for the action bar icon
     //listens for result code from that view to send back data
@@ -116,7 +117,7 @@ public class TimeLineActivity extends AppCompatActivity {
         if(requestCode == REQUEST_CODE && resultCode == RESULT_OK){
             //PULL INFO OUT OF THE DATA INTENT (tweet object)
             Tweet tweet = Parcels.unwrap(data.getParcelableExtra("Tweet"));
-            //update the recyler view with this tweet
+            //update the recycler view with this tweet
             tweets.add(0, tweet);
             adapter.notifyItemInserted(0);
             //tells the recycler view to scroll back up after new data has been published
