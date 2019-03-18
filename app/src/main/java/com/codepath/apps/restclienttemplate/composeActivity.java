@@ -30,6 +30,7 @@ public class composeActivity extends AppCompatActivity {
     private final int MAX_TEXT = 140;
     private String amount;
     private int addedTotal = 0;
+    private Button cancel;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -40,6 +41,15 @@ public class composeActivity extends AppCompatActivity {
         textAmount = findViewById(R.id.tvAmount);
         button = findViewById(R.id.tweetBtn);
         client = TwitterApp.getRestClient(this);
+        cancel = findViewById(R.id.cancelBtn);
+
+
+        cancel.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                finish();
+            }
+        });
 
 
         //event to listen for text changed from user
@@ -59,7 +69,7 @@ public class composeActivity extends AppCompatActivity {
                     button.setEnabled(true);
                     textAmount.setTextColor(getResources().getColor(R.color.black));
                 }
-                amount =  Integer.toString(text.length());
+                amount =  Integer.toString(MAX_TEXT - text.length());
                 textAmount.setText(amount);
             }
 

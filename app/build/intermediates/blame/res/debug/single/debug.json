@@ -260,6 +260,10 @@
         "source": "/Users/sparkyevangelista/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cd6c8bfcd5913f271c5891bc15aa6d43/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
+        "merged": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_twitter.png.flat",
+        "source": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_twitter.png"
+    },
+    {
         "merged": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "/Users/sparkyevangelista/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cd6c8bfcd5913f271c5891bc15aa6d43/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
@@ -272,12 +276,12 @@
         "source": "/Users/sparkyevangelista/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cd6c8bfcd5913f271c5891bc15aa6d43/res/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
-        "source": "/Users/sparkyevangelista/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cd6c8bfcd5913f271c5891bc15aa6d43/res/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
-    },
-    {
         "merged": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "/Users/sparkyevangelista/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cd6c8bfcd5913f271c5891bc15aa6d43/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/Users/sparkyevangelista/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cd6c8bfcd5913f271c5891bc15aa6d43/res/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
     },
     {
         "merged": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -556,6 +560,10 @@
         "source": "/Users/sparkyevangelista/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/25b0a2da3ec5240d518d83985043d0f8/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
     },
     {
+        "merged": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_twitter.xml.flat",
+        "source": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_twitter.xml"
+    },
+    {
         "merged": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "/Users/sparkyevangelista/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cd6c8bfcd5913f271c5891bc15aa6d43/res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
@@ -630,6 +638,10 @@
     {
         "merged": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/Users/sparkyevangelista/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cd6c8bfcd5913f271c5891bc15aa6d43/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_twitter.png.flat",
+        "source": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/generated/res/pngs/debug/drawable-ldpi/ic_twitter.png"
     },
     {
         "merged": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -750,6 +762,10 @@
     {
         "merged": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/res/merged/debug/color_abc_tint_switch_track.xml.flat",
         "source": "/Users/sparkyevangelista/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cd6c8bfcd5913f271c5891bc15aa6d43/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_twitter.png.flat",
+        "source": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/generated/res/pngs/debug/drawable-hdpi/ic_twitter.png"
     },
     {
         "merged": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/res/merged/debug/drawable_abc_vector_test.xml.flat",
@@ -1000,6 +1016,10 @@
         "source": "/Users/sparkyevangelista/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cd6c8bfcd5913f271c5891bc15aa6d43/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_twitter.png.flat",
+        "source": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/generated/res/pngs/debug/drawable-mdpi/ic_twitter.png"
+    },
+    {
         "merged": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/Users/sparkyevangelista/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cd6c8bfcd5913f271c5891bc15aa6d43/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -1104,6 +1124,10 @@
         "source": "/Users/sparkyevangelista/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cd6c8bfcd5913f271c5891bc15aa6d43/res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_twitter.png.flat",
+        "source": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_twitter.png"
+    },
+    {
         "merged": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
         "source": "/Users/sparkyevangelista/Documents/TwitterClone/app/src/main/res/layout/activity_login.xml"
     },
@@ -1130,6 +1154,10 @@
     {
         "merged": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/res/merged/debug/layout_notification_action_tombstone.xml.flat",
         "source": "/Users/sparkyevangelista/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/25b0a2da3ec5240d518d83985043d0f8/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/res/merged/debug/layout_toolbar.xml.flat",
+        "source": "/Users/sparkyevangelista/Documents/TwitterClone/app/src/main/res/layout/toolbar.xml"
     },
     {
         "merged": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -1510,6 +1538,10 @@
     {
         "merged": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/Users/sparkyevangelista/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cd6c8bfcd5913f271c5891bc15aa6d43/res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_twitter.png.flat",
+        "source": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_twitter.png"
     },
     {
         "merged": "/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",

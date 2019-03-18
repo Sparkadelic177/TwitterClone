@@ -2,79 +2,43 @@
 <instant-run
     abi="x86"
     api-level="28"
-    build-mode="FULL"
+    build-mode="HOT_WARM"
     density="mdpi"
     format="10"
     plugin-version="3.3.2"
-    timestamp="1552783813668"
+    timestamp="1552915818260"
     token="-2971854151540512231"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="2932" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="24" />
     <task
         name="instant-run-transform"
-        duration="183" />
+        duration="15" />
     <task
         name="verifier"
-        duration="268" />
+        duration="2" />
 
     <artifact
-        location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
-        type="SPLIT_MAIN" />
+        location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
 
     <build
         build-mode="FULL"
-        timestamp="1552783813668"
+        timestamp="1552914855026"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
             location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
@@ -83,29 +47,75 @@
             location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
             location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
+            location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
             location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1552915651880"
+        verifier="CLASS_ADDED" >
+        <artifact
+            location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
             location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1552915767431"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
-            type="SPLIT_MAIN" />
+            location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1552915818260"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/sparkyevangelista/Documents/TwitterClone/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>
